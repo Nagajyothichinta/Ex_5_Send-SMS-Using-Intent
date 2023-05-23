@@ -131,9 +131,9 @@ public class MainActivity extends AppCompatActivity {
 
 ## Output:
 
-![output](https://github.com/Nagajyothichinta/Ex_5_Send-SMS-Using-Intent/blob/ec6f26566d1821c83732047d87cc64722fdc0072/g0.png)
+![output](https://github.com/Nagajyothichinta/Ex_5_Send-SMS-Using-Intent/blob/ec6f26566d1821c83732047d87cc64722fdc0072/g0.png?raw=true)
 
-![output](https://github.com/Nagajyothichinta/Ex_5_Send-SMS-Using-Intent/blob/ec6f26566d1821c83732047d87cc64722fdc0072/g.png)
+![output](https://github.com/Nagajyothichinta/Ex_5_Send-SMS-Using-Intent/blob/ec6f26566d1821c83732047d87cc64722fdc0072/g.png?raw=true)
 
 ## Result:
 Thus a Simple Android Application to create and design an android application for Sending SMS using Intent in Android Studio was developed and executed successfully.
